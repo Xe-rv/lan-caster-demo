@@ -1,0 +1,14 @@
+{ "columns":1,
+ "image":"..\/images\/PC Computer - Shin Touhou Musou - Alice Margatroid.png",
+ "imageheight":26,
+ "imagewidth":19,
+ "margin":0,
+ "name":"PC Computer - Shin Touhou Musou - Alice Margatroid",
+ "spacing":3,
+ "tilecount":1,
+ "tiledversion":"2021.03.23",
+ "tileheight":24,
+ "tilewidth":19,
+ "type":"tileset",
+ "version":1.5
+}

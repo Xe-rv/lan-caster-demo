@@ -1,0 +1,8 @@
+Hello World Credits:
+
+Game Design by: Rex Gong
+
+Engine by: Doug Bakewell
+
+Art by: https://opengameart.org/content/sewer-tileset
+        https://opengameart.org/content/small-34-rpg-character-base
